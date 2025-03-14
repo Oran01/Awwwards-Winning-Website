@@ -32,8 +32,8 @@ This project was built by following the tutorial from [JavaScript Mastery](https
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/YourUsername/YourProject.git
-   cd YourProject
+   git clone https://github.com/Oran01/Awwwards-Winning-Website.git
+   cd Awwwards-Winning-Website
    ```
 
 2. **Install dependencies:**
